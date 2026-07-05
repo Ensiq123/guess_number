@@ -14,4 +14,4 @@ while user_number != secret_number:
     elif user_number < secret_number:
         print('Мало')
     else:
-        print(f'Правильно. Я загадал {secret_number}')
+        print(f'Правильно. Я загадал {secret_number}')dsad
